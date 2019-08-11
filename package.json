@@ -49,5 +49,6 @@
   "homepage": "https://github.com/accraze/split-md",
   "bin": {
     "split-md": "src/index.js"
-  }
+  },
+  "version": "1.0.0"
 }
